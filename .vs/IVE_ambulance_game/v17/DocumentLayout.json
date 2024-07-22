@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\IVE Game Development\\IVE_ambulance_game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IVE Game Development\\IVE_ambulance_game\\Library\\PackageCache\\com.unity.collab-proxy@2.4.3\\Editor\\PlasticSCM\\Configuration\\CloudEdition\\Welcome\\AutoLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.collab-proxy@2.4.3\\Editor\\PlasticSCM\\Configuration\\CloudEdition\\Welcome\\AutoLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IVE Game Development\\IVE_ambulance_game\\Assets\\LowPoly Vehicles\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\LowPoly Vehicles\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AutoLogin.cs",
-              "DocumentMoniker": "D:\\IVE Game Development\\IVE_ambulance_game\\Library\\PackageCache\\com.unity.collab-proxy@2.4.3\\Editor\\PlasticSCM\\Configuration\\CloudEdition\\Welcome\\AutoLogin.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.collab-proxy@2.4.3\\Editor\\PlasticSCM\\Configuration\\CloudEdition\\Welcome\\AutoLogin.cs",
-              "ToolTip": "D:\\IVE Game Development\\IVE_ambulance_game\\Library\\PackageCache\\com.unity.collab-proxy@2.4.3\\Editor\\PlasticSCM\\Configuration\\CloudEdition\\Welcome\\AutoLogin.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.collab-proxy@2.4.3\\Editor\\PlasticSCM\\Configuration\\CloudEdition\\Welcome\\AutoLogin.cs",
-              "ViewState": "AQIAAGcAAAAAAAAAAAAjwIAAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T15:12:55.076Z",
+              "Title": "README.txt",
+              "DocumentMoniker": "D:\\IVE Game Development\\IVE_ambulance_game\\Assets\\LowPoly Vehicles\\README.txt",
+              "RelativeDocumentMoniker": "Assets\\LowPoly Vehicles\\README.txt",
+              "ToolTip": "D:\\IVE Game Development\\IVE_ambulance_game\\Assets\\LowPoly Vehicles\\README.txt",
+              "RelativeToolTip": "Assets\\LowPoly Vehicles\\README.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-22T10:05:50.558Z",
               "EditorCaption": ""
             }
           ]
